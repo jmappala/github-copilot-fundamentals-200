@@ -20,14 +20,15 @@ The GitHub Copilot Fundamentals 200 Workshop is designed for developers who want
 ### Testing with Copilot
 - **Understanding Copilot's Role in Test-Driven Development:** An exploration of how GitHub Copilot can facilitate test-driven development (TDD) by generating test cases, scenarios, and assisting in the creation of comprehensive test suites 
 - **Generating Test Cases and Testing Scenarios with GitHub Copilot:** Practical guidance on using GitHub Copilot to automate the generation of test cases and scenarios, enhancing code coverage and quality  
+  
+### Understanding Copilot Suggestions
+- **Interpreting Complex Code Suggestions:** Techniques for interpreting and evaluating complex code suggestions provided by GitHub Copilot, ensuring accuracy, relevance, and adherence to coding standards
+
+### Optimizing Copilot Usage
+- **Tips for Maximizing Productivity with Copilot:** Strategies for maximizing developer productivity and efficiency when using GitHub Copilot, including time-saving techniques and workflow optimizations 
+- **Avoiding Common Pitfalls/Misconceptions:** Identification and avoidance of common pitfalls and misconceptions associated with GitHub Copilot usage, ensuring optimal performance and effectiveness
 
 ### Integrating Copilot into Workflows
 - **Overview of Development Workflows and Copilot Integration:** An overview of common software development workflows and strategies for integrating GitHub Copilot seamlessly into collaborative coding environments 
 - **Collaborative Coding with Copilot:** Best practices for leveraging GitHub Copilot to enhance collaboration among team members to streamline the development process 
   
-### Understanding Copilot Suggestions
-- **Interpreting Complex Code Suggestions:** Techniques for interpreting and evaluating complex code suggestions provided by GitHub Copilot, ensuring accuracy, relevance, and adherence to coding standards
-  
-### Optimizing Copilot Usage
-- **Tips for Maximizing Productivity with Copilot:** Strategies for maximizing developer productivity and efficiency when using GitHub Copilot, including time-saving techniques and workflow optimizations 
-- **Avoiding Common Pitfalls/Misconceptions:** Identification and avoidance of common pitfalls and misconceptions associated with GitHub Copilot usage, ensuring optimal performance and effectiveness
