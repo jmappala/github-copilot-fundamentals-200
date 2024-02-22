@@ -1,7 +1,7 @@
 # Welcome to GitHub Copilot Fundamentals 200!
 A repository for all things GitHub Copilot Training - Fundamentals 200!
 
-The GitHub Copilot Fundamentals 200 Workshop is designed for developers who want to advanced knowledge and enhanced skills in using GitHub Copilot. 
+The GitHub Copilot Fundamentals 200 Workshop is designed for developers who want advanced knowledge and enhanced skills in using GitHub Copilot. 
 
 ## Syllabus
 
